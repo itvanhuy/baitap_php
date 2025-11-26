@@ -6,10 +6,10 @@ if ($_GET) {
     $method = 'POST';
     $data = $_POST['data'];
 }
-
 if (empty($data)) {
     echo "Lỗi: Vui lòng nhập dữ liệu!";
-} else {
+} 
+    else {
     echo "Bạn đã gửi dữ liệu bằng $method: $data";
 }
 ?>

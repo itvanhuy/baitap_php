@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    max-width: 500px;
+}
+
+h2 {
+    color: #444;
+    margin-bottom: 15px;
+}
+
+input[type="number"] {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 200px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+input[type="submit"], button {
+    background: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover, button:hover {
+    background: #0056b3;
+}
+
+.result-section {
+    background: white;
+    padding: 30px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    max-width: 500px;
+    text-align: center;
+}
+
+.excellent {
+    color: #28a745;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    background: #d4edda;
+    border-radius: 8px;
+    border: 2px solid #c3e6cb;
+}
+
+.good {
+    color: #17a2b8;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    background: #d1ecf1;
+    border-radius: 8px;
+    border: 2px solid #bee5eb;
+}
+
+.average {
+    color: #ffc107;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    background: #fff3cd;
+    border-radius: 8px;
+    border: 2px solid #ffeaa7;
+}
+
+.weak {
+    color: #dc3545;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    background: #f8d7da;
+    border-radius: 8px;
+    border: 2px solid #f5c6cb;
+}
+
+a {
+    display: inline-block;
+    margin: 20px;
+    color: #007bff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Thêm bảng quy tắc xếp loại */
+.rules {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    max-width: 500px;
+}
+
+.rules h3 {
+    color: #444;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.rules ul {
+    list-style: none;
+    padding: 0;
+}
+
+.rules li {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.rules li:last-child {
+    border-bottom: none;
+}
