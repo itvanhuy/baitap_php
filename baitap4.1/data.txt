@@ -1,0 +1,4 @@
+Chào mừng bạn đến với bài tập đọc file PHP!
+Đây là nội dung trong file data.txt.
+PHP cung cấp nhiều hàm hữu ích để làm việc với file.
+Bài tập này giúp bạn làm quen với việc đọc nội dung từ file.
