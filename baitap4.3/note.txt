@@ -1,0 +1,291 @@
+================================================================================
+                            FILE TEST SIÊU DÀI - DỮ LIỆU MẪU
+================================================================================
+
+📊 PHẦN 1: DỮ LIỆU THỐNG KÊ VÀ SỐ LIỆU
+================================================================================
+
+Tổng doanh thu các tháng năm 2024:
+Tháng 1:   12,450,000,000 VND
+Tháng 2:   15,780,000,000 VND
+Tháng 3:   18,920,000,000 VND
+Tháng 4:   22,150,000,000 VND
+Tháng 5:   25,430,000,000 VND
+Tháng 6:   28,760,000,000 VND
+Tháng 7:   32,110,000,000 VND
+Tháng 8:   35,490,000,000 VND
+Tháng 9:   38,900,000,000 VND
+Tháng 10:  42,340,000,000 VND
+Tháng 11:  45,810,000,000 VND
+Tháng 12:  49,310,000,000 VND
+
+Tăng trưởng từng quý:
+Q1: +24.5%
+Q2: +22.8%
+Q3: +21.3%
+Q4: +20.1%
+
+================================================================================
+📈 PHẦN 2: DỮ LIỆU NGẪU NHIÊN VÀ MÃ GIẢ
+================================================================================
+
+Mã sản phẩm ngẫu nhiên:
+PROD-001: ABC123-XYZ-456-7890
+PROD-002: DEF456-UVW-789-0123
+PROD-003: GHI789-RST-012-3456
+PROD-004: JKL012-OPQ-345-6789
+PROD-005: MNO345-LMN-678-9012
+PROD-006: PQR678-JKL-901-2345
+PROD-007: STU901-HIJ-234-5678
+PROD-008: VWX234-GHI-567-8901
+PROD-009: YZA567-FGH-890-1234
+PROD-010: BCD890-EFG-123-4567
+
+Token bảo mật (fake):
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+bearer_token_ABCDEFG1234567890
+api_key_xyz9876543210abcdef
+session_id_7890asdfghjkl12345
+
+================================================================================
+📝 PHẦN 3: VĂN BẢN DÀI - BÀI VIẾT MẪU
+================================================================================
+
+Chương 1: Giới thiệu về công nghệ
+
+Trong thời đại công nghệ 4.0 hiện nay, việc ứng dụng các công nghệ mới vào sản xuất và kinh doanh đã trở thành yếu tố then chốt quyết định sự thành công của doanh nghiệp. Các công nghệ như Trí tuệ nhân tạo (AI), Internet of Things (IoT), Blockchain, và Điện toán đám mây đang dần thay đổi cách thức hoạt động của mọi ngành nghề.
+
+AI không chỉ là một công cụ tự động hóa mà còn là giải pháp thông minh giúp doanh nghiệp đưa ra các quyết định chính xác dựa trên phân tích dữ liệu lớn. Machine Learning cho phép hệ thống học hỏi từ dữ liệu và cải thiện hiệu suất theo thời gian mà không cần lập trình rõ ràng.
+
+IoT kết nối hàng tỷ thiết bị trên toàn cầu, tạo ra một mạng lưới thông minh có khả năng thu thập và chia sẻ dữ liệu theo thời gian thực. Điều này mở ra cơ hội cho các ứng dụng trong nông nghiệp thông minh, thành phố thông minh, và chăm sóc sức khỏe từ xa.
+
+Chương 2: Ứng dụng thực tiễn
+
+Trong lĩnh vực tài chính ngân hàng, công nghệ Blockchain đang cách mạng hóa hệ thống thanh toán và chuyển tiền quốc tế. Các hợp đồng thông minh (Smart Contracts) tự động thực thi các điều khoản khi đáp ứng điều kiện định trước, giảm thiểu rủi ro và chi phí trung gian.
+
+Điện toán đám mây cung cấp khả năng mở rộng linh hoạt, cho phép doanh nghiệp chỉ trả tiền cho những tài nguyên thực sự sử dụng. Mô hình SaaS (Software as a Service) giúp doanh nghiệp nhỏ và vừa tiếp cận các phần mềm chuyên nghiệp với chi phí hợp lý.
+
+================================================================================
+🔢 PHẦN 4: DỮ LIỆU SỐ VÀ BẢNG BIỂU
+================================================================================
+
+Bảng điểm sinh viên:
+STT  | Mã SV    | Họ tên                | Toán | Lý | Hóa | Anh | Điểm TB
+-----|----------|-----------------------|------|----|-----|-----|--------
+1    | SV2024001| Nguyễn Văn A         | 8.5  | 7.8| 9.2 | 8.0 | 8.38
+2    | SV2024002| Trần Thị B           | 9.0  | 8.2| 8.5 | 9.1 | 8.70
+3    | SV2024003| Lê Văn C             | 7.5  | 8.5| 7.8 | 8.2 | 8.00
+4    | SV2024004| Phạm Thị D           | 8.8  | 9.0| 8.7 | 8.5 | 8.75
+5    | SV2024005| Hoàng Văn E          | 6.5  | 7.0| 7.5 | 6.8 | 6.95
+6    | SV2024006| Đỗ Thị F             | 9.5  | 9.2| 9.8 | 9.0 | 9.38
+7    | SV2024007| Bùi Văn G            | 8.0  | 8.5| 8.0 | 8.8 | 8.33
+8    | SV2024008| Vũ Thị H             | 7.8  | 7.5| 8.2 | 7.9 | 7.85
+9    | SV2024009| Đinh Văn I           | 9.2  | 8.8| 9.0 | 9.5 | 9.13
+10   | SV2024010| Lý Thị K             | 8.5  | 8.0| 8.5 | 8.2 | 8.30
+
+Thống kê chi tiêu dự án:
+Hạng mục              | Ngân sách | Thực chi | Chênh lệch | % hoàn thành
+----------------------|-----------|----------|------------|--------------
+Nhân sự               | 500,000   | 480,000  | +20,000    | 96%
+Thiết bị              | 300,000   | 320,000  | -20,000    | 107%
+Nguyên vật liệu       | 200,000   | 180,000  | +20,000    | 90%
+Marketing             | 150,000   | 160,000  | -10,000    | 107%
+Đào tạo               | 100,000   | 95,000   | +5,000     | 95%
+Phát sinh             | 50,000    | 65,000   | -15,000    | 130%
+Tổng cộng             | 1,300,000 | 1,300,000| 0          | 100%
+
+================================================================================
+🌐 PHẦN 5: DỮ LIỆU JSON VÀ XML MẪU
+================================================================================
+
+JSON Data Sample:
+{
+  "company": {
+    "name": "TechCorp Solutions",
+    "founded": 2010,
+    "employees": 1250,
+    "departments": [
+      "Research & Development",
+      "Sales & Marketing",
+      "Customer Support",
+      "Human Resources",
+      "Finance & Accounting"
+    ],
+    "locations": [
+      {"city": "Hanoi", "country": "Vietnam", "employees": 500},
+      {"city": "Ho Chi Minh", "country": "Vietnam", "employees": 400},
+      {"city": "Da Nang", "country": "Vietnam", "employees": 150},
+      {"city": "Singapore", "country": "Singapore", "employees": 200}
+    ],
+    "revenue_by_year": {
+      "2020": 45000000,
+      "2021": 52000000,
+      "2022": 61000000,
+      "2023": 73000000
+    }
+  },
+  "products": [
+    {
+      "id": "PROD-1001",
+      "name": "Enterprise Cloud Suite",
+      "category": "Software",
+      "price": 4999,
+      "features": ["Scalability", "Security", "24/7 Support", "Auto Backup"]
+    },
+    {
+      "id": "PROD-1002",
+      "name": "AI Analytics Platform",
+      "category": "AI Solutions",
+      "price": 8999,
+      "features": ["Predictive Analytics", "Real-time Processing", "Custom Models"]
+    }
+  ]
+}
+
+XML Data Sample:
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <product id="BK001">
+    <name>Programming PHP</name>
+    <author>Kevin Tatroe</author>
+    <year>2020</year>
+    <price>45.99</price>
+    <category>Programming</category>
+  </product>
+  <product id="BK002">
+    <name>JavaScript: The Good Parts</name>
+    <author>Douglas Crockford</author>
+    <year>2008</year>
+    <price>29.99</price>
+    <category>Web Development</category>
+  </product>
+  <product id="BK003">
+    <name>Clean Code</name>
+    <author>Robert C. Martin</author>
+    <year>2008</year>
+    <price>39.99</price>
+    <category>Software Engineering</category>
+  </product>
+</catalog>
+
+================================================================================
+📊 PHẦN 6: DỮ LIỆU LOG HỆ THỐNG
+================================================================================
+
+[2024-03-15 08:30:15] INFO: Server started successfully on port 8080
+[2024-03-15 08:35:22] INFO: Database connection established
+[2024-03-15 08:40:10] INFO: User login: user_id=12345, ip=192.168.1.100
+[2024-03-15 09:15:33] WARNING: High memory usage detected: 85%
+[2024-03-15 09:30:45] INFO: Backup process started
+[2024-03-15 10:20:18] ERROR: Database query failed: Connection timeout
+[2024-03-15 10:25:30] INFO: Attempting to reconnect...
+[2024-03-15 10:26:05] INFO: Reconnection successful
+[2024-03-15 11:45:12] INFO: New user registered: username=john_doe
+[2024-03-15 12:30:00] INFO: Scheduled maintenance started
+[2024-03-15 13:15:00] INFO: Maintenance completed successfully
+[2024-03-15 14:20:33] INFO: API request received: endpoint=/api/users, method=GET
+[2024-03-15 15:10:45] WARNING: Unusual activity detected from IP: 203.0.113.5
+[2024-03-15 16:05:18] INFO: Cache cleared successfully
+[2024-03-15 17:30:22] INFO: Daily report generated
+[2024-03-15 18:00:00] INFO: Server shutdown initiated
+[2024-03-15 18:00:30] INFO: Server shutdown completed
+
+================================================================================
+🔤 PHẦN 7: VĂN BẢN TIẾNG VIỆT DÀI
+================================================================================
+
+Công nghệ thông tin đang phát triển với tốc độ chóng mặt, mang lại nhiều thay đổi tích cực cho xã hội. Từ giáo dục, y tế, đến giao thông và sản xuất, mọi lĩnh vực đều được hưởng lợi từ sự tiến bộ của công nghệ.
+
+Trong giáo dục, các nền tảng học trực tuyến cho phép học sinh ở vùng sâu vùng xa tiếp cận với kiến thức chất lượng cao. Công nghệ thực tế ảo (VR) và thực tế tăng cường (AR) tạo ra môi trường học tập tương tác, giúp học sinh dễ dàng hình dung các khái niệm phức tạp.
+
+Y tế thông minh ứng dụng IoT trong theo dõi sức khỏe từ xa, cho phép bác sĩ giám sát tình trạng bệnh nhân 24/7. AI hỗ trợ chẩn đoán bệnh thông qua phân tích hình ảnh y tế với độ chính xác cao.
+
+Giao thông thông minh sử dụng cảm biến và AI để tối ưu hóa luồng giao thông, giảm ùn tắc và tai nạn. Xe tự lái đang dần trở thành hiện thực, hứa hẹn cách mạng hóa ngành vận tải.
+
+Sản xuất thông minh với robot và hệ thống tự động hóa nâng cao năng suất và chất lượng sản phẩm. Internet công nghiệp (IIoT) kết nối máy móc trong nhà máy, tạo ra dữ liệu để phân tích và tối ưu hóa quy trình.
+
+================================================================================
+📈 PHẦN 8: DỮ LIỆU THỜI GIAN THỰC
+================================================================================
+
+Stock Prices (Real-time data):
+Symbol | Company           | Price   | Change   | % Change | Volume
+-------|-------------------|---------|----------|----------|---------
+AAPL   | Apple Inc.        | 175.25  | +2.15    | +1.24%   | 45,230,100
+GOOGL  | Alphabet Inc.     | 142.80  | -0.75    | -0.52%   | 28,150,900
+MSFT   | Microsoft Corp.   | 330.45  | +3.20    | +0.98%   | 36,780,500
+AMZN   | Amazon.com Inc.   | 145.60  | +1.85    | +1.29%   | 40,120,300
+TSLA   | Tesla Inc.        | 245.30  | -5.20    | -2.08%   | 52,340,700
+META   | Meta Platforms    | 350.75  | +4.25    | +1.23%   | 25,670,400
+NVDA   | NVIDIA Corp.      | 525.80  | +12.40   | +2.42%   | 38,910,200
+BTC    | Bitcoin           | 42,150  | +850     | +2.06%   | 32.5B
+ETH    | Ethereum          | 2,850   | +45      | +1.60%   | 18.7B
+
+Weather Data:
+City        | Temp | Humidity | Condition    | Wind Speed | Pressure
+------------|------|----------|--------------|------------|---------
+Hanoi       | 28°C | 75%      | Partly Cloudy| 12 km/h    | 1013 hPa
+HCMC        | 32°C | 80%      | Rainy        | 15 km/h    | 1008 hPa
+Da Nang     | 30°C | 78%      | Sunny        | 10 km/h    | 1012 hPa
+Tokyo       | 18°C | 65%      | Clear        | 8 km/h     | 1015 hPa
+New York    | 15°C | 70%      | Cloudy       | 20 km/h    | 1010 hPa
+London      | 12°C | 85%      | Foggy        | 5 km/h     | 1005 hPa
+Sydney      | 25°C | 60%      | Sunny        | 18 km/h    | 1018 hPa
+
+================================================================================
+🎯 PHẦN 9: DỮ LIỆU TEST PERFORMANCE
+================================================================================
+
+Performance Metrics:
+Load Time Test 1: 245ms
+Load Time Test 2: 198ms
+Load Time Test 3: 210ms
+Load Time Test 4: 225ms
+Load Time Test 5: 190ms
+Load Time Test 6: 205ms
+Load Time Test 7: 230ms
+Load Time Test 8: 215ms
+Load Time Test 9: 200ms
+Load Time Test 10: 195ms
+Average Load Time: 211.3ms
+
+Memory Usage:
+Initial: 15.2 MB
+After 1000 ops: 18.7 MB
+After 5000 ops: 22.3 MB
+After 10000 ops: 25.8 MB
+Peak Usage: 28.1 MB
+
+CPU Utilization:
+Average: 23.4%
+Peak: 67.8%
+Idle: 76.6%
+
+Database Query Performance:
+SELECT Query 1: 45ms
+SELECT Query 2: 32ms
+INSERT Query: 28ms
+UPDATE Query: 35ms
+DELETE Query: 30ms
+Complex JOIN: 120ms
+
+================================================================================
+🔚 PHẦN 10: KẾT THÚC FILE TEST
+================================================================================
+
+Tổng kết:
+- Tổng số dòng trong file: ~250 dòng
+- Tổng số ký tự: ~15,000 ký tự
+- Các loại dữ liệu: Văn bản, số, JSON, XML, bảng biểu, log
+- Mục đích: Test hiệu suất đọc file, hiển thị dữ liệu
+- Độ phức tạp: Trung bình - Cao
+
+File này được tạo ra để kiểm tra:
+1. Khả năng xử lý file lớn của ứng dụng
+2. Hiệu suất đọc và hiển thị dữ liệu
+3. Định dạng hóa nội dung đa dạng
+4. Xử lý các loại dữ liệu khác nhau
+
+===========================================
+🏁 KẾT THÚC FILE TEST - SIÊU DÀI
+===========================================
